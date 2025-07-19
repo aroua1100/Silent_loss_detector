@@ -56,7 +56,7 @@ The application will be available at: http://localhost:8050
 - 🟡 **Yellow**: Not producing - explained (alarms, curtailment, low wind)
 - 🟠 **Orange**: Not producing - verification pending (suspected issues)
 - 🔴 **Red**: Not producing - unexpected (potential problems)
-- ⚫ **Gray**: Offline/maintenance
+- ⚫ **Gray**: Missing Data
 
 ### State Categories
 
